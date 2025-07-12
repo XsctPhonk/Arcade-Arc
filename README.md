@@ -1,2 +1,0 @@
-# Arcade-Arc
-Arc
